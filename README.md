@@ -15,3 +15,6 @@ Microsoft Excel | PivotTables | PivotCharts | Slicers | Timelines | VBA Macros
 
 #Objective
 To transform raw e-commerce data into meaningful visual insights that support sales monitoring, performance analysis, and data-driven decision-making.
+
+#Dashboard
+- <a href="https://github.com/ayushwaykar47-art/E-Commerce-Sales-Performance-Dashboard/blob/main/Dashboard%20SS.png">Dashboard /a>
